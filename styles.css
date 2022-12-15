@@ -1,6 +1,6 @@
 
 /* Your CSS Code here. */
-.item-1{
+.holder{
     display: flex;
     align-items: center;
     justify-content: center;
